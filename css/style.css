@@ -1,0 +1,37 @@
+ 
+ header{
+    background-color:rgb(120, 125, 131);
+}
+nav ul li {
+    border: 1px solid rgb(240, 241, 241); 
+   display: inline-block;
+   width: 100px;
+   padding: 5px 0 5px 0;
+   margin: 20px;
+   text-align: center;
+   } 
+   
+ a {
+   text-decoration: none;
+   color: rgb(238, 155, 169);
+ }
+ h1{
+   
+   font-size: 30px;
+   color: rgb(238, 155, 169);
+   text-align: center;
+   padding: 5px 0 5px 0;
+   display: inline-block;
+ }
+ p{
+   margin: auto;
+   width: 60%;
+   padding: 10px;
+   padding-top: 50px;
+  
+ }
+
+ footer{
+        background-color:rgb(120, 125, 131); 
+     
+ }
